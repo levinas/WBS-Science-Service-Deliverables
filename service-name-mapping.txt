@@ -4,5 +4,5 @@
 1.4.4.1	Comparative Analysis
 1.4.5.1	Profile
 1.4.6.1	Phylogenetic
-1.4.9.1	Plat Metabolic Modeling
+1.4.9.1	Plant Metabolic Modeling
 1.4.10.1	Metagenomic Subset Matrix
